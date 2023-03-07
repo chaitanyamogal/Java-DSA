@@ -1,5 +1,6 @@
 package LinkedList;
 
+// Two pointer method
 public class MiddleOfLinkedList {
 
 	public class ListNode {
